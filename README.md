@@ -1,2 +1,1 @@
-# JavaBegin
-Java Learning
+Java learning repository!
